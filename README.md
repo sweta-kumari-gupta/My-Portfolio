@@ -10,8 +10,7 @@ Sweta_Kumari.resume.pdf: A downloadable version of Sweta's resume.
 Lib folder: Contains third-party libraries or dependencies for enhanced functionality.
 This portfolio highlights Sweta's expertise in web development, coding, and other technical skills while providing an easy way for potential employers or collaborators to connect with her.
 ​​
-
-
+"" To view my portfolio please run the index.html file after un-zip the file ""
 
 
 
